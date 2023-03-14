@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#btn-container{
+    text-align: center;
+    margin-top: 30vh;
+}
+
+.dropdown-item{
+    cursor: pointer;
+}
+
+.btn-group{
+    position: absolute;
+    top: 40%;
+    transform: translateY(-100%);
+    transform: translateX(-50%);
+}
+
+#password-container{
+    margin-top: 5vh;
+    text-align: center;
+}
+
+h1{
+    font-size: 5vw;
+    text-align: center;
+}
+
+@media screen and (max-width: 600px){
+    h1{
+        font-size: 45px;
+    }
+}
