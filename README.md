@@ -1,3 +1,3 @@
 # Random Pass Generator
  
-Live Demo: https://cinemania-abdul.netlify.app/
+Live Demo: https://rnd-pass.netlify.app/
